@@ -1,4 +1,8 @@
 # Innovation, Design, and Entrepreneurship (IDE)
+* [Innovation](https://en.wikipedia.org/wiki/Innovation)
+* [Invention](https://en.wikipedia.org/wiki/Invention)
+* [Design](https://en.wikipedia.org/wiki/Design)
+* [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [*Dragons' Den*](https://en.wikipedia.org/wiki/Dragons%27_Den)
 * [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
 * [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)

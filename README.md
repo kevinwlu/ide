@@ -3,6 +3,9 @@
 * [Invention](https://en.wikipedia.org/wiki/Invention)
 * [Design](https://en.wikipedia.org/wiki/Design)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
+* [Keystone (architecture)](https://en.wikipedia.org/wiki/Keystone_(architecture)) or capstone
+* [Cornerstone](https://en.wikipedia.org/wiki/Cornerstone) or foundation stone or setting stone
+* [Capstone course](https://en.wikipedia.org/wiki/Capstone_course)
 * [*Dragons' Den*](https://en.wikipedia.org/wiki/Dragons%27_Den)
 * [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
 * [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)

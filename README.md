@@ -12,7 +12,13 @@
 * [Deep tech](https://en.wikipedia.org/wiki/Deep_tech)
 * [Hard tech](https://www.pangaeaventures.com/blog/what-is-hard-tech)
 * [Hard tech vs. deep tech](https://www.pangaeaventures.com/blog/what-is-hard-tech-s5642)
-* [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
+* [AngelList](https://en.wikipedia.org/wiki/AngelList)
+  * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
+* [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
+  * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
+  * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+* [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
+  * [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
 ## Business Plan
 * [Business plan](https://en.wikipedia.org/wiki/Business_plan)
 * [Vision statement](https://en.wikipedia.org/wiki/Vision_statement)

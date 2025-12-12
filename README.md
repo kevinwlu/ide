@@ -9,6 +9,8 @@
 * [*Dragons' Den*](https://en.wikipedia.org/wiki/Dragons%27_Den)
 * [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
 * [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)
+  * [Filler (linguistics)](https://en.wikipedia.org/wiki/Filler_(linguistics))
+  * [Self-awareness](https://en.wikipedia.org/wiki/Self-awareness)
 * [Deep tech](https://en.wikipedia.org/wiki/Deep_tech)
 * [Hard tech](https://www.pangaeaventures.com/blog/what-is-hard-tech)
 * [Hard tech vs. deep tech](https://www.pangaeaventures.com/blog/what-is-hard-tech-s5642)

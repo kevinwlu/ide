@@ -16,6 +16,8 @@
 * [Hard tech vs. deep tech](https://www.pangaeaventures.com/blog/what-is-hard-tech-s5642)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
   * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
+* [Plug and Play Tech Center](https://en.wikipedia.org/wiki/Plug_and_Play_Tech_Center)
+  * [NJ AI Innovation Challenge](https://www.denovo.dev/plugandplay)
 * [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
   * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)

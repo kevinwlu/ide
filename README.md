@@ -23,6 +23,10 @@
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
   * [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
+* [Uayki](https://uayki.org/en/)
+  * [Quechua people](https://en.wikipedia.org/wiki/Quechua_people)
+  * [Quechuan languages](https://en.wikipedia.org/wiki/Quechuan_languages)
+  * [Hispanic Africa](https://en.wikipedia.org/wiki/Hispanic_Africa)
 * [Zenoti](https://www.zenoti.com/) 
 ## Business Plan
 * [Business plan](https://en.wikipedia.org/wiki/Business_plan)

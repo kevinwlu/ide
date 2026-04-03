@@ -27,6 +27,7 @@
   * [Quechua people](https://en.wikipedia.org/wiki/Quechua_people)
   * [Quechuan languages](https://en.wikipedia.org/wiki/Quechuan_languages)
   * [Hispanic Africa](https://en.wikipedia.org/wiki/Hispanic_Africa)
+  * [Equatorial Guinea](https://en.wikipedia.org/wiki/Equatorial_Guinea)
 * [Zenoti](https://www.zenoti.com/) 
 ## Business Plan
 * [Business plan](https://en.wikipedia.org/wiki/Business_plan)

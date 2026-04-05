@@ -6,6 +6,7 @@
 * [Keystone (architecture)](https://en.wikipedia.org/wiki/Keystone_(architecture)) or capstone
 * [Cornerstone](https://en.wikipedia.org/wiki/Cornerstone) or foundation stone or setting stone
 * [Capstone course](https://en.wikipedia.org/wiki/Capstone_course)
+* [Congressional App Challenge](https://en.wikipedia.org/wiki/Congressional_App_Challenge) (CAC)
 * [*Dragons' Den*](https://en.wikipedia.org/wiki/Dragons%27_Den)
 * [*Shark Tank*](https://en.wikipedia.org/wiki/Shark_Tank)
 * [Elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)

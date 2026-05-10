@@ -1,4 +1,7 @@
 # Innovation, Design, and Entrepreneurship (IDE)
+* [StoryWorks](https://www.youtube.com/@StoryWorksIndia) by Indranil Chakraborty
+  * *Stories at Work: Unlock the Secret to Business Storytelling*, September 2018
+---
 * [Innovation](https://en.wikipedia.org/wiki/Innovation)
 * [Invention](https://en.wikipedia.org/wiki/Invention)
 * [Design](https://en.wikipedia.org/wiki/Design)

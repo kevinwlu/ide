@@ -39,6 +39,11 @@
 * [Business plan](https://en.wikipedia.org/wiki/Business_plan)
 * [Vision statement](https://en.wikipedia.org/wiki/Vision_statement)
 * [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+## Inventors
+* [Elisha Otis](https://en.wikipedia.org/wiki/Elisha_Otis) 1811&mdash;1861
+  * [Otis Worldwide](https://en.wikipedia.org/wiki/Otis_Worldwide)
+* [William Otis](https://en.wikipedia.org/wiki/William_Otis) 1813&mdash;1839
+  * [Steam shovel](https://en.wikipedia.org/wiki/Steam_shovel)
 ## Project Management
 * [Management science](https://en.wikipedia.org/wiki/Management_science)
   * [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker) 1909&mdash;2005

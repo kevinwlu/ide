@@ -6,6 +6,7 @@
 * [Invention](https://en.wikipedia.org/wiki/Invention)
 * [Design](https://en.wikipedia.org/wiki/Design)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
+* [IEEE for Industry](https://www.ieee.org/about/industry)
 * [Keystone (architecture)](https://en.wikipedia.org/wiki/Keystone_(architecture)) or capstone
 * [Cornerstone](https://en.wikipedia.org/wiki/Cornerstone) or foundation stone or setting stone
 * [Capstone course](https://en.wikipedia.org/wiki/Capstone_course)

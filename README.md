@@ -1,7 +1,7 @@
 # Innovation, Design, and Entrepreneurship (IDE)
 * [StoryWorks](https://www.youtube.com/@StoryWorksIndia) by Indranil Chakraborty
   * *Stories at Work: Unlock the Secret to Business Storytelling*, September 2018
-* [YouTube)](https://en.wikipedia.org/wiki/YouTube)
+* [YouTube](https://en.wikipedia.org/wiki/YouTube)
   * [Steve Chen](https://en.wikipedia.org/wiki/Steve_Chen)
   * [Chad Hurley](https://en.wikipedia.org/wiki/Chad_Hurley)
   * [Jawed Karim](https://en.wikipedia.org/wiki/Jawed_Karim)

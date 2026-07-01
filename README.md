@@ -5,6 +5,11 @@
   * [Steve Chen](https://en.wikipedia.org/wiki/Steve_Chen)
   * [Chad Hurley](https://en.wikipedia.org/wiki/Chad_Hurley)
   * [Jawed Karim](https://en.wikipedia.org/wiki/Jawed_Karim)
+* [Intercontinental Exchange](https://en.wikipedia.org/wiki/Intercontinental_Exchange)
+  * [Jeffrey Sprecher](https://en.wikipedia.org/wiki/Jeffrey_Sprecher)
+  * [New York Stock Exchange](https://en.wikipedia.org/wiki/New_York_Stock_Exchange)
+  * [Kelly Loeffler](https://en.wikipedia.org/wiki/Kelly_Loeffler)
+  * [Bakkt)](https://en.wikipedia.org/wiki/Bakkt)
 ---
 * [Innovation](https://en.wikipedia.org/wiki/Innovation)
 * [Invention](https://en.wikipedia.org/wiki/Invention)

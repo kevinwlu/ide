@@ -10,6 +10,15 @@
   * [New York Stock Exchange](https://en.wikipedia.org/wiki/New_York_Stock_Exchange)
   * [Kelly Loeffler](https://en.wikipedia.org/wiki/Kelly_Loeffler)
   * [Bakkt)](https://en.wikipedia.org/wiki/Bakkt)
+* [Nasdaq, Inc.](https://en.wikipedia.org/wiki/Nasdaq,_Inc.)
+* [Nasdaq Stock Exchange](https://en.wikipedia.org/wiki/Nasdaq)
+  * MANGOS
+    * Meta Platforms (NASDAQ: META)
+    * Anthropic (private)
+    * Nvidia (NASDAQ: NVDA)
+    * Google/Alphabet (NASDAQ: GOOGL)
+    * OpenAI (private)
+    * SpaceX (NASDAQ: SPCX)
 ---
 * [Innovation](https://en.wikipedia.org/wiki/Innovation)
 * [Invention](https://en.wikipedia.org/wiki/Invention)

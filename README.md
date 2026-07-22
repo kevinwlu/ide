@@ -46,6 +46,7 @@
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
   * [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
+* [Lean startup](https://en.wikipedia.org/wiki/Lean_startup)
 * [Mauceri Prototyping and Design](https://mpd.is/) (MPD.is)
 * [OpenWater](https://openwater.com/)
 * [Uayki](https://uayki.org/en/)

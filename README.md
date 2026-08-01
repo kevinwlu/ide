@@ -10,6 +10,7 @@
   * [New York Stock Exchange](https://en.wikipedia.org/wiki/New_York_Stock_Exchange)
   * [Kelly Loeffler](https://en.wikipedia.org/wiki/Kelly_Loeffler)
   * [Bakkt](https://en.wikipedia.org/wiki/Bakkt)
+* [Jane Street Capital](https://en.wikipedia.org/wiki/Jane_Street_Capital)
 * [Nasdaq, Inc.](https://en.wikipedia.org/wiki/Nasdaq,_Inc.)
 * [Nasdaq Stock Exchange](https://en.wikipedia.org/wiki/Nasdaq)
   * MANGOS

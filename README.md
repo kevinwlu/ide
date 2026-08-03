@@ -20,6 +20,9 @@
     * Google/Alphabet (NASDAQ: GOOGL)
     * OpenAI (private)
     * SpaceX (NASDAQ: SPCX)
+* [Kazuo Inamori](https://en.wikipedia.org/wiki/Kazuo_Inamori) 1932&mdash;2022
+  * [Kyocera](https://en.wikipedia.org/wiki/Kyocera) founded in 1959
+  * [KDDI](https://en.wikipedia.org/wiki/KDDI) 
 ---
 * [Innovation](https://en.wikipedia.org/wiki/Innovation)
 * [Invention](https://en.wikipedia.org/wiki/Invention)

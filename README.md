@@ -29,6 +29,8 @@
 * [Design](https://en.wikipedia.org/wiki/Design)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [IEEE for Industry](https://www.ieee.org/about/industry)
+* [Instructure](https://en.wikipedia.org/wiki/Instructure)
+  * [Learning Tools Interoperability](https://community.instructure.com/en/kb/articles/662753-what-are-external-apps-lti-tools) (LTI)
 * [Keystone (architecture)](https://en.wikipedia.org/wiki/Keystone_(architecture)) or capstone
 * [Cornerstone](https://en.wikipedia.org/wiki/Cornerstone) or foundation stone or setting stone
 * [Capstone course](https://en.wikipedia.org/wiki/Capstone_course)

@@ -23,6 +23,8 @@
 * [Kazuo Inamori](https://en.wikipedia.org/wiki/Kazuo_Inamori) 1932&mdash;2022
   * [Kyocera](https://en.wikipedia.org/wiki/Kyocera) founded in 1959
   * [KDDI](https://en.wikipedia.org/wiki/KDDI) 
+* [John Larry Kelly Jr.](https://en.wikipedia.org/wiki/John_Larry_Kelly_Jr.) 1923&mdash;1965
+  * [Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
 ---
 * [Innovation](https://en.wikipedia.org/wiki/Innovation)
 * [Invention](https://en.wikipedia.org/wiki/Invention)

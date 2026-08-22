@@ -30,6 +30,8 @@
 * [Invention](https://en.wikipedia.org/wiki/Invention)
 * [Design](https://en.wikipedia.org/wiki/Design)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
+* [IEEE Elevate](https://students.ieee.org/elevate/)
+* [IEEE Impact Challenge](https://www.ieee.org/impact-challenge)
 * [IEEE for Industry](https://www.ieee.org/about/industry)
 * [Instructure](https://en.wikipedia.org/wiki/Instructure)
   * [Learning Tools Interoperability](https://community.instructure.com/en/kb/articles/662753-what-are-external-apps-lti-tools) (LTI)

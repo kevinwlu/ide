@@ -29,6 +29,8 @@
 * [Innovation](https://en.wikipedia.org/wiki/Innovation)
 * [Invention](https://en.wikipedia.org/wiki/Invention)
 * [Design](https://en.wikipedia.org/wiki/Design)
+  * [Design methods](https://en.wikipedia.org/wiki/Design_methods)
+  * [Design thinking](https://en.wikipedia.org/wiki/Design_thinking)
 * [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 * [IEEE Elevate](https://students.ieee.org/elevate/)
 * [IEEE Impact Challenge](https://www.ieee.org/impact-challenge)
@@ -99,3 +101,6 @@
 * [*The Second Curve: Managing the Velocity of Change*](https://ianmorrison.com/books/) 1996 by [Ian Morrison](https://ianmorrison.com/)
 * [*The Second Curve: Thoughts on Reinventing Society*](https://www.goodreads.com/book/show/23346846-the-second-curve) 2015 by [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy)
 * [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
+## Product Development
+  * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+  * [New product development](https://en.wikipedia.org/wiki/New_product_development)

@@ -102,5 +102,5 @@
 * [*The Second Curve: Thoughts on Reinventing Society*](https://www.goodreads.com/book/show/23346846-the-second-curve) 2015 by [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy)
 * [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
 ## Product Development
-  * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-  * [New product development](https://en.wikipedia.org/wiki/New_product_development)
+  * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
+  * [New product development](https://en.wikipedia.org/wiki/New_product_development) (NPD)
